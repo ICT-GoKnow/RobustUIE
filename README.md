@@ -51,7 +51,7 @@ bash scripts/merge_lora_ckpts.sh
 After training a model, you can run the following script to select augmented samples for data augmentation training of the model.
 
 ```
-python LDA/LDA_strategy.py
+python src/LDA_strategy.py
 ```
 
 ### Evaluation
