@@ -1,1 +1,1 @@
-
+#### We evaluate the robustness of the IE models using our constructed RUIE-Bench. Since some datasets have copyright restrictions and require licenses, we have only released a subset of the data. You can download the data from [Google Drive](https://drive.google.com/file/d/1xCp6hEvEQxXYNe9aunVsOY3Mb2OXC2qi/view?usp=sharing).
