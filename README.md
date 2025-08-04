@@ -72,9 +72,10 @@ bash scripts/eval.sh
 If you find the paper helpful, please cite our work:
 
 ```
-@article{zhu2025towards,
-  title={Towards Robust Universal Information Extraction: Benchmark, Evaluation, and Solution},
+@inproceedings{zhu2025towards,
+  title={Towards Robust Universal Information Extraction: Dataset, Evaluation, and Solution},
   author={Zhu, Jizhao and Shi, Akang and Li, Zixuan and Bai, Long and Jin, Xiaolong and Guo, Jiafeng and Cheng, Xueqi},
-  journal={arXiv preprint arXiv:2503.03201},
+  booktitle={Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)},
+  pages={28052--28070},
   year={2025}
 }
