@@ -1,10 +1,3 @@
-'''
-@time      : 2023/09/20 21:32:43
-@author    : zengyutao1996@163.com
-@version   : 1.0
-@desc      : 导出可视化的结果分析表
-'''
-
 import argparse
 import os
 
