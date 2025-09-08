@@ -1,11 +1,5 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-'''
-@time      : 2023-11-26 00:52:51
-@author    : zengyutao1996@163.com
-@version   : 1.0
-@desc      : 使用vllm进行结果评估, 并存储中间结果
-'''
 
 import argparse
 import os
