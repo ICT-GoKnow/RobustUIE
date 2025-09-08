@@ -1,11 +1,5 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-'''
-@time      : 2023-11-26 00:52:51
-@author    : zengyutao1996@163.com
-@version   : 1.0
-@desc      : 将各个ckpt的输出结果进行汇总
-'''
 
 import argparse
 import os
